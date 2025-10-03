@@ -5,12 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 A lightweight **real-time group chat app** built with **Python, Flask, and Socket.IO**. Anyone who visits the site can instantly chat with others online — no account required. Inspired by the simplicity of Omegle, but designed as a group-based chat room.
-
----
-
-## 🚀 Live Demo
-
-👉 [Try TalkSphere here](https://python-chat-ahfr.onrender.com)
+🌐 Live Demo: [TalkSphere on Render](https://python-chat-ahfr.onrender.com)
 
 ---
 
@@ -25,8 +20,15 @@ A lightweight **real-time group chat app** built with **Python, Flask, and Socke
 ## 🛠️ Tech Stack
 
 * **Backend**: Python, Flask, Flask-SocketIO
-* **Frontend**: HTML, CSS, JavaScript
+* **Frontend**: HTML, CSS (inline), JavaScript (inline with Socket.IO)
 * **Deployment**: Render
+
+---
+
+## 📂 Project Structure
+
+* `app.py` → Flask backend with Socket.IO event handling
+* `templates/index.html` → Chat frontend (HTML + CSS + JS combined)
 
 ---
 
@@ -59,6 +61,13 @@ python app.py
 ```
 
 Visit `http://127.0.0.1:5000` in your browser.
+
+---
+
+## 💡 How to Test
+
+To test the chat in action, open **two or more tabs** of the live demo link (or localhost when running locally).
+Each tab will be assigned a unique username + avatar, and you can chat between them in real time.
 
 ---
 
