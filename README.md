@@ -67,7 +67,6 @@ Visit `http://127.0.0.1:5000` in your browser.
 * [ ] Add project logo
 * [ ] Custom avatars (male / female)
 * [ ] Light and dark mode toggle
-* [ ] User nicknames
 * [ ] Private chat rooms
 
 ---
