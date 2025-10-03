@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 A lightweight **real-time group chat app** built with **Python, Flask, and Socket.IO**. Anyone who visits the site can instantly chat with others online — no account required. Inspired by the simplicity of Omegle, but designed as a group-based chat room.
-🌐 Live Demo: [TalkSphere on Render](https://python-chat-ahfr.onrender.com)
+* 🌐 Live Demo: [TalkSphere on Render](https://python-chat-ahfr.onrender.com)
 
 ---
 
