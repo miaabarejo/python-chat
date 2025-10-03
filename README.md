@@ -14,13 +14,6 @@ A lightweight **real-time group chat app** built with **Python, Flask, and Socke
 
 ---
 
-## 📸 Preview
-
-*(Add screenshot here in future edits)*
-![App Screenshot Placeholder](docs/screenshot.png)
-
----
-
 ## ✨ Features
 
 * 💬 **Instant messaging** in a shared group chat
